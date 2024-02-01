@@ -27,3 +27,10 @@ noun
 
 2.development towards an improved or more advanced condition.
 "we are making progress towards equal rights"
+
+
+👋Hey there!
+👩‍💻 I’m Aiza 💞
+👀 I’m interested in Full-stack development
+🌱 I’m currently studying at DCI
+👌 "There is nothing you can't do, if you set your mind to it"
